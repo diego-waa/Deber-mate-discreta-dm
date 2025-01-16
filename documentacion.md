@@ -43,15 +43,6 @@ Archivo principal que contiene:
    - **Opción 3**: Ingresar un límite para generar la sucesión de Fibonacci.
    - **Opción 4**: Salir del programa.
 
-## Ejemplo de uso
-### Entrada:
-```
-Seleccione una opción: 1
-Ingrese una cadena: hola
-```
-### Salida:
-```
-Cadena invertida: aloh
 ```
 
 ## Comentarios
