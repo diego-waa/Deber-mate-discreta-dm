@@ -28,22 +28,6 @@ Archivo principal que contiene:
 - Entrada y validación de datos del usuario.
 - Llamadas a las funciones definidas en `funciones.h`.
 
-## Uso del programa
-1. Compilar el programa con un compilador compatible con ANSI C:
-   ```
-   gcc main.c funciones.c -o programa
-   ```
-2. Ejecutar el programa:
-   ```
-   ./programa
-   ```
-3. Seguir las instrucciones del menú interactivo:
-   - **Opción 1**: Ingresar una cadena para invertir.
-   - **Opción 2**: Ingresar un número entero positivo para calcular su factorial.
-   - **Opción 3**: Ingresar un límite para generar la sucesión de Fibonacci.
-   - **Opción 4**: Salir del programa.
-
-```
 
 ## Comentarios
 - Asegúrese de ingresar datos válidos según se indique en cada opción.
